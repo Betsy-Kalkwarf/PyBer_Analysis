@@ -5,10 +5,10 @@ The purpose of the new analysis is to create a summary of the PyBer data by city
 
 ## Results:
 When looking at the PyBer data by city type summary dataframe, there are a lot of differences. The total amount of rides, drivers, and total fares correlate with the population density of the city type with urban areas having the largest and rural areas having the lowest. The average fare per ride and average fare per driver have an inverse trend, with the rural areas having the largest and urban areas having the lowest. This is probably because the rides are longer since destinations in rural areas are often more spread out than in urban areas. You can see the details in the dataframe below:
-![alt text](“https://github.com/Betsy-Kalkwarf/PyBer_Analysis/blob/main/analysis/PyBer_Summary_df.png”)
+![alt text](https://github.com/Betsy-Kalkwarf/PyBer_Analysis/blob/main/analysis/PyBer_Summary_df.png)
 
 When looking at the PyBer weekly total fare sum in the line chart, the peaks and valleys for each city type are somewhat related, with the biggest peak after mid-February. The fare sums are always highest for the urban city type followed by the suburban city type. The rural city type always has the lowest sum, which is to be expected after viewing the dataframe showing the much lower total rides count. See the line chart below:
-![alt text](“https://github.com/Betsy-Kalkwarf/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png”)
+![alt text](https://github.com/Betsy-Kalkwarf/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary:
 After looking through the data summary, I suggest the following moves by PyBer:
